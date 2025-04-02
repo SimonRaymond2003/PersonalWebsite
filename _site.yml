@@ -6,4 +6,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "this is my third tab"
+      href: 3rdtab.html
 output_dir: docs
